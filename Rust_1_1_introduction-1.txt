@@ -1,0 +1,12 @@
+
+
+Rust is compiler language.
+
+Rust is a low-level language.
+
+Rust is fast nearly as fast as C.
+
+Learning Rust is a great investment for the future.
+
+The greatest feature of Rust is supporting memory safety.
+
