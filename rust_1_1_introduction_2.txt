@@ -1,0 +1,67 @@
+
+
+//@@ Rust Compiler @@//
+
+
+In some cases Rust is faster than C.(benchmarksgame-team.pages.debian.net)
+
+
+Rust is much more faster than Golang.
+
+
+To download Rust compiler:
+https://rust-lang.org
+
+
+If you are on Windows you may need to download VS C++ build tools and Win10 SDK and installing them then downloading rust compiler downloader and and running it...
+
+
+after all that 
+>> rustc --version
+
+
+
+rust files have .rs extension
+
+
+
+// comment
+
+
+/* comment */
+
+
+
+we can make rust files and then compile them using:
+>> rustc my_rust_program.rs
+
+
+or we can use cargo 
+
+
+
+>> cargo new project_name
+>> cd project_name
+>> cargo run 
+
+
+You can see that cargo make a folder with all dependencies and ...
+The largest folder is target which you can delete it 
+cargo will generate it again after >> cargo run
+
+
+target folder is ignored in the .gitignore so it won't get uploaded to github.
+
+
+
+if you use vscode code runner extension compiled files will be generated beside of the .rs file.
+but using >>cargo run generates compiled files in the target folder.
+
+
+
+
+
+
+
+
+

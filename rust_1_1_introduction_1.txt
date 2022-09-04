@@ -1,0 +1,49 @@
+
+
+Rust is compiler language made by Mozilla.
+
+
+Rust is a low-level language.
+
+
+Rust is fast nearly as fast as C.
+
+
+Rust is more secure than C.
+
+
+Learning Rust is a great investment for the future.
+
+
+The greatest feature of Rust is supporting memory safety.
+
+
+In a language like C you should manage the memory manually.
+
+
+In Rust the compiler manages the memory itself .
+
+
+Rust does not have garbage collecting. So it is fast.
+
+
+Rust has a very good error document.
+
+
+Rust is a modern language and it has a package manager named cargo.
+
+
+Rust is not OO. But it has kind of OOP.
+
+
+Rust is much more faster than Golang.
+
+
+
+Great source for learning Rust:
+doc.rust-lang.org/book
+
+
+
+
+
